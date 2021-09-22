@@ -1,0 +1,7 @@
+/* .new_nav{
+    display: flex;
+} */
+
+header .nav-col .navbad li a{
+    border-radius: 0%;
+}
